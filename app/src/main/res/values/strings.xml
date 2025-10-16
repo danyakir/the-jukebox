@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JukeBox</string>
+    <string name="rock">ROCK N\' ROLL</string>
+    <string name="pop">POP</string>
+    <string name="hip_hop">HIP HOP</string>
+    <string name="techno">TECHNO</string>
+    <string name="disco">DISCO</string>
+    <string name="slow">SLOW</string>
+    <string name="choose">CHOOSE</string>
+</resources>
