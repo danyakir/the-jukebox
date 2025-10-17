@@ -32,8 +32,8 @@ class MainActivity : AppCompatActivity() {
     private var myService: MainService? = null
     private var isBound = false
 
-    private lateinit var lightsManager: LightsManager
 
+    private val lightsManager = LightsManager(this)
     private val musicManager = MusicManager(this) {
         genreLiveData.postValue(null)
     }
