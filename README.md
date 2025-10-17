@@ -2,7 +2,8 @@
 ![Platform](https://img.shields.io/badge/platform-Android-brightgreen.svg?color=00ADB5&style=for-the-badge)
 ## Preview📹
 
-<img src="https://github.com/user-attachments/assets/03e9dfdf-8bcc-4cb8-b467-9b4ce060058c" width="200"/>
+<img src="https://github.com/danyakir/the-jukebox/blob/main/SS/jukebox-video1.gif" width="300"/>
+<img src="https://github.com/danyakir/the-jukebox/blob/main/SS/jukebox-video2.gif" width="300"/>
 
 ## Overview👀
 This project was created for a festival I attended with my friends. We wanted to contribute something artistic and interactive to the event, so I came up with the idea of building a DIY jukebox that reacts to user input — changing both the music and the lights based on the selected genre.
